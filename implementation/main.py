@@ -202,7 +202,7 @@ class PVDSteganographyGUI:
     def browse_cover_image(self):
         file_path = filedialog.askopenfilename(
             title="Select Cover Image",
-            filetypes=[("Image files", "*.jpg *.jpeg *.png *.bmp *.tiff")]
+            filetypes=[("Image files", "*.jpg *.jpeg *.png *.bmp")]
         )
         if file_path:
             self.cover_image_path = file_path
@@ -256,7 +256,7 @@ class PVDSteganographyGUI:
     def browse_embed_image(self):
         file_path = filedialog.askopenfilename(
             title="Select Embedded Image",
-            filetypes=[("Image files", "*.jpg *.jpeg *.png *.bmp *.tiff")]
+            filetypes=[("Image files", "*.jpg *.jpeg *.png *.bmp")]
         )
         if file_path:
             self.embedded_image_path = file_path
