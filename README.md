@@ -21,7 +21,7 @@ PVD Steganography sử dụng sự khác biệt giữa các pixel liền kề đ
 ## 📦 Cài đặt
 
 ### Yêu cầu hệ thống
-- Python 3.7 trở lên
+- Python
 - pip (Python package manager)
 
 ### Cài đặt dependencies
